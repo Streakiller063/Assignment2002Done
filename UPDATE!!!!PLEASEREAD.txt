@@ -1,0 +1,10 @@
+Add review class, user now can add review and see review
+Uncorrupted textfiles
+Check user class
+
+Payment function is now working PLEASE CHECK user class
+USER RECORD variables are changed, please check the class
+Add Cineplex class
+Add one more layer(Vendor has many cineplexes, cineplex has many 3 theatres)
+Add show top rank movie function
+Updatemovieshowtimes in admin (delete maybe????)
